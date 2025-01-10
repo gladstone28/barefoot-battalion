@@ -1,7 +1,5 @@
 link to AI:
 
-https://chatgpt.com/c/678122bb-8d0c-8006-b779-51a0b9effe88
-
 Agenda for Zoom Meeting
 Date: [Insert Date]
 Time: [Insert Time]
